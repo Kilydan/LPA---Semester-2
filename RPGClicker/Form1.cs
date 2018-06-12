@@ -17,6 +17,7 @@ namespace RPGClicker
         int currentCharacterHealth;
         int totalKills = 0;
         int totalGold = 0;
+
         GameOption gameoption = new GameOption();
         Character character;
         Enemy enemy;
