@@ -39,6 +39,7 @@ namespace RPGClicker
             if (Rage < 0) throw new ArgumentOutOfRangeException("Rage cannot be lower then 0");
             this.Rage = Rage;
         }
+
         public int UseRage(int Rage)
         {
             if (Rage < 0) throw new ArgumentOutOfRangeException("Rage cannot be lower then 0");
