@@ -359,12 +359,6 @@ namespace RPGClicker
                 MessageBox.Show("You do not have any items equiped");
             }
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         /// <summary>
         /// Own Functions
         /// </summary>

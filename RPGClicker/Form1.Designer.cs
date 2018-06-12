@@ -1188,7 +1188,6 @@
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "RPG Clicker";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.TabControl.ResumeLayout(false);
             this.HomeTab.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);

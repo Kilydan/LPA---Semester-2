@@ -20,3 +20,10 @@ C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClicker\bin\D
 C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\bin\Debug\RPGClicker.exe.config
 C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.exe
 C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.pdb
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\bin\Debug\RPGClicker.exe
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\bin\Debug\RPGClicker.pdb
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.csprojResolveAssemblyReference.cache
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.Form1.resources
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.Properties.Resources.resources
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.csproj.GenerateResource.Cache
