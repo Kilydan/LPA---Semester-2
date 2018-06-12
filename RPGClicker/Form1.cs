@@ -116,7 +116,6 @@ namespace RPGClicker
             characterInfo();
         }
 
-
         private void btnSpecialAbility_Click(object sender, EventArgs e)
         {
             int dmg = 0;
