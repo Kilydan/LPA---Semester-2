@@ -1,0 +1,7 @@
+C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClickerTest\bin\Debug\RPGClickerTest.dll
+C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClickerTest\bin\Debug\RPGClickerTest.pdb
+C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClickerTest\bin\Debug\RPGClicker.exe
+C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClickerTest\bin\Debug\RPGClicker.pdb
+C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClickerTest\obj\Debug\RPGClickerTest.csprojResolveAssemblyReference.cache
+C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClickerTest\obj\Debug\RPGClickerTest.dll
+C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClickerTest\obj\Debug\RPGClickerTest.pdb

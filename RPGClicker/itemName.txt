@@ -1,0 +1,5 @@
+﻿//Prefixes
+(Agony, Apocalypse, Armageddon, Beast, Behemoth, Blight, Blood, Bramble, Brimstone, Brood, Carrion, Cataclysm, Chimeric, Corpse, Corruption, Damnation, Death, Demon, Dire, Dragon, Dread, Doom, Dusk, Eagle, Empyrean, Fate, Foe, Gale, Ghoul, Gloom, Glyph, Golem, Grim, Hate, Havoc, Honour, Horror, Hypnotic, Kraken, Loath, Maelstrom, Mind, Miracle, Morbid, Oblivion, Onslaught, Pain, Pandemonium, Phoenix, Plague, Rage, Rapture, Rune, Skull, Sol, Soul, Sorrow, Spirit, Storm, Tempest, Torment, Vengeance, Victory, Viper, Vortex, Woe, Wrath)
+
+//Suffixes
+(Arch, Bane, Barb, Barrage, Batter, Beak, Beam, Bite, Blast, Blow, Blunt, Branch, Brand, Breaker, Breeze, Burst, Butcher, Call, Chant, Charm, Crack, Crusher, Cry, Edge, Etcher, Fang, Fist, Fletch, Gnarl, Gnash, Goad, Grinder, Guide, Gutter, Horn, Hunger, Impaler, Knell, Mangler, Mark, Mast, Needle, Nock, Pile, Pillar, Pole, Post, Rain, Ram, Razor, Reach, Rend, Roar, Ruin, Saw, Scalpel, Scratch, Sever, Shatter, Siege, Skewer, Slayer, Slicer, Smasher, Song, Spawn, Spell, Spike,Spiker, Spire, Splitter, Star, Stinger, Strike, Sunder, Talons, Thirst, Thresher, Thunder,Twine, Volley, Weaver, Wind, Wing, Wreck)
