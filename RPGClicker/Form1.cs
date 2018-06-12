@@ -35,7 +35,6 @@ namespace RPGClicker
             }
         }
 
-
         private void btnCreateCharacter_Click(object sender, EventArgs e)
         {
             try

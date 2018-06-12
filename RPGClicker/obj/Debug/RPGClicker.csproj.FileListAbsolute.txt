@@ -17,3 +17,6 @@ C:\Users\timho\Google Drive\school\Semester 2\Software\ClickerNzo (2)\RPGClicker
 C:\Users\timho\Google Drive\school\Semester 2\Software\ClickerNzo (2)\RPGClicker\RPGClicker\obj\Debug\RPGClicker.Properties.Resources.resources
 C:\Users\timho\Google Drive\school\Semester 2\Software\ClickerNzo (2)\RPGClicker\RPGClicker\obj\Debug\RPGClicker.csproj.GenerateResource.Cache
 C:\Users\Niels\documents\visual studio 2015\Projects\RPGclicker\RPGClicker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\bin\Debug\RPGClicker.exe.config
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.exe
+C:\Users\timho\Google Drive\Thuis\Projects\RPGClicker\RPGClicker\obj\Debug\RPGClicker.pdb
