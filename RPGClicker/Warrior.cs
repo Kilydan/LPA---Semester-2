@@ -58,9 +58,9 @@ namespace RPGClicker
                         + ", " + Rage;
             return info;
         }
-        private void MergeConflicer()
+        private void mergeConflicter()
         {
-            //not a test anymore boi;
+            //test merrge
         }
     }
 }
