@@ -36,21 +36,7 @@ namespace RPGClickerTest
             Assert.AreEqual("Linus", warrior.Name);
             Assert.AreEqual(7, warrior.Age);
             Assert.AreEqual(false, warrior.Admin);
-        }   
-        [TestMethod]
-        public void TestGameOptionsSaveLoad()
-        {
-            GameOption GameOption = new GameOption();
-            Warrior warrior = (Warrior)GameOption.createCharacter("Warrior", "Linus", 7, false);
-            Warrior warrior2 = (Warrior)GameOption.createCharacter("Warrior", "Bert", 254, true);
-            string path = "D:/Overig/warrior.bin";
-            GameOption.Save(path, warrior);
-            warrior2 =(Warrior)GameOption.Load(path, warrior2);
-            Assert.AreEqual(warrior.Name, warrior2.Name);
-            Assert.AreEqual(warrior.Age, warrior2.Age);
-            Assert.AreEqual(warrior.Armor, warrior2.Armor);
-            Assert.AreEqual(warrior.Health, warrior2.Health);
-        } 
+        }
        
         [TestMethod]
         [ExpectedException(typeof(ArgumentNullException))]
